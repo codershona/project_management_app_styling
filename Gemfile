@@ -34,6 +34,8 @@ gem 'twitter-bootstrap-rails', '~> 4.0'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'devise-bootstrap-views', '~> 1.1'
 
+gem 'tenants_helper', '~> 0.1.0'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
