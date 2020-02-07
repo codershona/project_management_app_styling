@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## PROJECT: SAAS - PROJECT MANAGEMENT APP (RAILS 5)
 
-Things you may want to cover:
+### BUILDED BY : FALGUNI ISLAM(SOFTWARE DEVELOPER)
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+*  Notes :
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+  Devise and bootstrap setup :
+     - added gemfile devise, jquery rails, twitter-bootstrap-rails, devise-bootstrap-views ; 
+     - rails generate bootstrap:install static ;
+     - rails g devise:views:locale en ;
+     - rails g devise:views:bootstrap_templates ;
+     - rails g bootstrap:layout application ; 
+     
+```
