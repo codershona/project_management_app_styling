@@ -17,5 +17,6 @@
      - rails g devise:views:locale en ;
      - rails g devise:views:bootstrap_templates ;
      - rails g bootstrap:layout application ; 
+     - copr from twitter-bootstrap-rails/app/helpers/bootstrap_flash_helper.rb  and paste it in application_helper.rb ;
      
 ```
